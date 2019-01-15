@@ -30,7 +30,6 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
 I am an assistant professor (_Researcher_) of Computer Science at [Università di Napoli Federico II](http://www.unina.it/en_GB/home) (Naples, Italy), formerly at the [University of Turku](https://www.utu.fi/en) and [UQAM](https://uqam.ca/). 
+
 My research interests include Sturmian words and generalizations, pseudopalindromes, rich words, and periodicity.
