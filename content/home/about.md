@@ -10,26 +10,21 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Combinatorics on Words",
+    "Automata and Formal Languages",
+    "Discrete Mathematics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "PhD in Mathematical Sciences"
+  institution = "Università di Napoli Federico II"
   year = 2008
+
+[[education.courses]]
+  course = "MSc in Mathematics"
+  institution = "Università di Napoli Federico II"
+  year = 2003
  
 +++
 
@@ -37,4 +32,5 @@ weight = 5
 
 Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am an assistant professor (_Researcher_) of Computer Science at [Università di Napoli Federico II](http://www.unina.it/en_GB/home) (Naples, Italy), formerly at the [University of Turku](https://www.utu.fi/en) and [UQAM](https://uqam.ca/). 
+My research interests include Sturmian words and generalizations, pseudopalindromes, rich words, and periodicity.
