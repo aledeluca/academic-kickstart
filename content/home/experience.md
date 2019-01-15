@@ -7,7 +7,7 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 6
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -36,11 +36,11 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Classes taught:
-  
+
   * Databases (lab)
   * Information Theory
   """
-  
+
 [[experience]]
   title = "Postdoc Researcher"
   company = "University of Turku"
@@ -49,7 +49,7 @@ date_format = "January 2006"
   date_start = "2010-10-01"
   date_end = "2012-02-29"
   description = "Full-time before 2010-12-28, then part-time."
-  
+
 [[experience]]
   title = "Postdoc"
   company = "UQAM"
@@ -58,7 +58,7 @@ date_format = "January 2006"
   date_start = "2009-09-21"
   date_end = "2010-09-20"
   description = "At LaCIM."
-  
+
 [[experience]]
   title = "Postdoc"
   company = "Univ. Napoli Federico II"
