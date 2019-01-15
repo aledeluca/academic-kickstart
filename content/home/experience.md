@@ -48,7 +48,8 @@ date_format = "January 2006"
   location = "Finland"
   date_start = "2010-10-01"
   date_end = "2012-02-29"
-  description = "Full-time before 2010-12-28, then part-time."
+  description = """Full-time before 2010-12-28, then part-time, within the
+  [FiDiPro group](http://www.math.utu.fi/projects/fundim/fidipro/)."""
 
 [[experience]]
   title = "Postdoc"
@@ -57,7 +58,7 @@ date_format = "January 2006"
   location = "Montréal, Canada"
   date_start = "2009-09-21"
   date_end = "2010-09-20"
-  description = "At LaCIM."
+  description = "At [LaCIM](http://lacim.uqam.ca/)."
 
 [[experience]]
   title = "Postdoc"
