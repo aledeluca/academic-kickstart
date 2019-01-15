@@ -57,6 +57,6 @@ date_format = "January 2006"
   location = "Montréal, Canada"
   date_start = "2009-09-21"
   date_end = "2010-09-20"
-  description = "At LaCiM."
+  description = "At LaCIM."
 
 +++
