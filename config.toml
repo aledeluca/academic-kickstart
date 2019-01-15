@@ -66,7 +66,7 @@ enableGitInfo = false
   email = "DELETETHISalessandro.deluca@unina.it"
   address = """
   DIETI, Università di Napoli Federico II
-  
+
   via Claudio, 21 – 80125 Napoli, Italy
   """
   office_hours = ""
@@ -279,17 +279,17 @@ enableGitInfo = false
     icon = "linkedin"
     icon_pack = "fab"
     link = "www.linkedin.com/in/delucaale"
-    
+
   [[params.social]]
     icon = "arxiv"
     icon_pack = "ai"
     link = "http://arxiv.org/a/deluca_a_2"
-    
+
   [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
     link = "https://orcid.org/0000-0003-1704-773X"
-    
+
   [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
@@ -321,7 +321,7 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "News"
   url = "#posts"
   weight = 3
 
