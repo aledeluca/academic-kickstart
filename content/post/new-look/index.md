@@ -1,5 +1,5 @@
 +++
-title = "New Look"
+title = "New Look!"
 date = 2019-01-15T05:02:55+01:00
 draft = false
 
@@ -28,12 +28,12 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
-  
+
   # Show image only in page previews?
   preview_only = true
 +++
 
 I completely redesigned this webpage using
 [Academic](https://sourcethemes.com/academic/) and
-[GitHub](https://github.com/)! Hopefully, this
+[GitHub](https://github.com/). Hopefully, this
 will help in keeping the page up-to-date and useful.
