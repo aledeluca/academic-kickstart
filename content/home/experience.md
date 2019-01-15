@@ -42,7 +42,7 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Postdoc Researcher"
+  title = "Postdoc (_Tutkijatohtori_)"
   company = "University of Turku"
   company_url = "https://www.utu.fi"
   location = "Finland"
@@ -52,7 +52,7 @@ date_format = "January 2006"
   [FiDiPro group](http://www.math.utu.fi/projects/fundim/fidipro/)."""
 
 [[experience]]
-  title = "Postdoc"
+  title = "Postdoc (_Stagiaire postdoctoral_)"
   company = "UQAM"
   company_url = "https://www.uqam.ca"
   location = "Montréal, Canada"
@@ -61,7 +61,7 @@ date_format = "January 2006"
   description = "At [LaCIM](http://lacim.uqam.ca/)."
 
 [[experience]]
-  title = "Postdoc"
+  title = "Postdoc (_Assegnista di ricerca_)"
   company = "Univ. Napoli Federico II"
   company_url = "http://www.unina.it"
   location = "Italy"
