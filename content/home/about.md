@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Mathematical Sciences"
+  course = "PhD at Graduate School of Mathematics and Computer Science"
   institution = "Università di Napoli Federico II"
   year = 2008
 
@@ -25,11 +25,11 @@ weight = 5
   course = "MSc in Mathematics"
   institution = "Università di Napoli Federico II"
   year = 2003
- 
+
 +++
 
 # Biography
 
-I am an assistant professor (_Researcher_) of Computer Science at [Università di Napoli Federico II](http://www.unina.it/en_GB/home) (Naples, Italy), formerly at the [University of Turku](https://www.utu.fi/en) and [UQAM](https://uqam.ca/). 
+I am an assistant professor (_Researcher_) of Computer Science at [Università di Napoli Federico II](http://www.unina.it/en_GB/home) (Naples, Italy), formerly at the [University of Turku](https://www.utu.fi/en) and [UQAM](https://uqam.ca/).
 
 My research interests include Sturmian words and generalizations, pseudopalindromes, rich words, and periodicity.
