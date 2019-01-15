@@ -48,7 +48,7 @@ date_format = "January 2006"
   location = "Finland"
   date_start = "2010-10-01"
   date_end = "2012-02-29"
-  description = """Full-time before 2010-12-28, then part-time, within the
+  description = """Full-time in 2010, part-time afterwards; within the
   [FiDiPro group](http://www.math.utu.fi/projects/fundim/fidipro/)."""
 
 [[experience]]
