@@ -58,5 +58,14 @@ date_format = "January 2006"
   date_start = "2009-09-21"
   date_end = "2010-09-20"
   description = "At LaCIM."
+  
+[[experience]]
+  title = "Postdoc"
+  company = "Univ. Napoli Federico II"
+  company_url = "http://www.unina.it"
+  location = "Italy"
+  date_start = "2008-06-01"
+  date_end = "2009-05-31"
+  description = ""
 
 +++
