@@ -31,4 +31,5 @@ weight = 60
 (Czech Technical University)
 * [Svetlana Puzynina](http://math.nsc.ru/~puzynina/) (Sobolev Institute of Mathematics)
 * Jiří Hladký
-* [Alma D'Aniello](https://www.docenti.unina.it/) (University of Naples Federico II)
+* [Alma D'Aniello](https://www.docenti.unina.it/alma.daniello)
+(University of Naples Federico II)
