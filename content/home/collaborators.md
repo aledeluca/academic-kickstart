@@ -20,6 +20,7 @@ weight = 60
 +++
 
 * [Aldo de Luca](http://scholar.google.com/citations?user=3xa03r4AAAAJ)
+(University of Naples Federico II)
 * [Michelangelo Bucci](http://scholar.google.com/citations?user=MSIhhksAAAAJ)
 (Utility Warehouse)
 * [Luca Zamboni](https://scholar.google.it/citations?user=vP7iY3gAAAAJ)
