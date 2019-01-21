@@ -31,6 +31,6 @@ weight = 60
 * [Ľubomíra Dvořaková](https://kmlinux.fjfi.cvut.cz/~balkolub/), _née_ Balková
 (Czech Technical University)
 * [Svetlana Puzynina](http://math.nsc.ru/~puzynina/) (Sobolev Institute of Mathematics)
-* Jiří Hladký
+* Jiří Hladký (Red Hat)
 * [Alma D'Aniello](https://www.docenti.unina.it/alma.daniello)
 (University of Naples Federico II)
