@@ -1,9 +1,9 @@
 +++
 title = "On a Generalization of Standard Episturmian Morphisms"
-date = 2008-01-01
+date = 2008-09-01
 authors = ["Michelangelo Bucci", "Aldo de Luca", "Alessandro De Luca"]
 publication_types = ["1"]
-abstract = ""
+abstract = "In a recent paper with L. Q. Zamboni the authors introduced the class of v-episturmian words, where v is an involutory antimorphism of the free monoid A*. In this paper, we introduce and study v-characteristic morphisms, that is, morphisms which map standard episturmian words into standard v-episturmian words. They are a natural extension of standard episturmian morphisms. The main result of the paper is a characterization of these morphisms when they are injective. © 2008 Springer-Verlag Berlin Heidelberg."
 selected = false
 publication = "*Developments in Language Theory*"
 tags = ["mine"]

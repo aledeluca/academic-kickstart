@@ -1,9 +1,9 @@
 +++
 title = "Infinite Words with Well Distributed Occurrences"
-date = 2013-01-01
+date = 2013-09-01
 authors = ["Ľubomira Balková", "Michelangelo Bucci", "Alessandro De Luca", "Svetlana Puzynina"]
 publication_types = ["1"]
-abstract = ""
+abstract = "In this paper we introduce the well distributed occurrences (WDO) combinatorial property for infinite words, which guarantees good behavior (no lattice structure) in some related pseudorandom number generators. An infinite word u on a d-ary alphabet has the WDO property if, for each factor w of u, positive integer m, and vector v, there is an occurrence of w such that the Parikh vector of the prefix of u preceding such occurrence is congruent to v modulo m. We prove that Sturmian words, and more generally Arnoux-Rauzy words and some morphic images of them, have the WDO property. © 2013 Springer-Verlag Berlin Heidelberg."
 selected = false
 publication = "*Combinatorics on Words*"
 tags = ["mine"]
