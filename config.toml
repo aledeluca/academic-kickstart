@@ -116,7 +116,9 @@ enableGitInfo = false
   font = "playfair"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = """
+  Personal webpage of Alessandro De Luca, researcher and assistant professor at
+  University of Naples Federico II"""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
@@ -172,7 +174,7 @@ enableGitInfo = false
   #
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-  highlight = true
+  highlight = false
   highlight_languages = []
   # highlight_style = "github"
 
@@ -318,12 +320,12 @@ enableGitInfo = false
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "News"
   url = "#posts"
-  weight = 3
+  weight = 2
 
  # [[menu.main]]
  #  name = "Projects"
