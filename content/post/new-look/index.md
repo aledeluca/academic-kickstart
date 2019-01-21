@@ -3,6 +3,8 @@ title = "New Look!"
 date = 2019-01-15T05:02:55+01:00
 draft = false
 
+date_format = "Jan 2, 2006"
+
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
