@@ -12,5 +12,5 @@ tool is the Christoffel tree introduced in a paper by Berstel and de Luca."""
 selected = false
 publication = "*Electronic Journal of Combinatorics*"
 tags = ["Calkin-Wilf tree", "Christoffel words", "Hyperbinary expansions", "Stern sequence"]
-url_custom = ["Scopus", "\1"]
+url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-80054811434&partnerID=40&md5=fcd3bae00c2f4c06ff8981820a002cfd"]
 +++

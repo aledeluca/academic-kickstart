@@ -11,6 +11,6 @@ whether a finite word is Sturmian."""
 selected = false
 publication = "*Theoretical Computer Science*"
 tags = ["Periodicity", "Special factors", "String algorithms", "Sturmian words"]
-url_custom = ["Scopus", "\1"]
+url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-33744765575&doi=10.1016%2fj.tcs.2006.01.036&partnerID=40&md5=f4c7eded639d1e8b6040dc4ba9358b03"]
 doi = "10.1016/j.tcs.2006.01.036"
 +++
