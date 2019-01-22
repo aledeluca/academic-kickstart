@@ -13,6 +13,6 @@ root is also rich."""
 selected = false
 publication = "*Developments in Language Theory*"
 tags = ["Complete returns", "Palindromes", "Periodicity", "Rich words"]
-url_custom = ["Scopus", "\1"]
+url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-69049099065&doi=10.1007%2f978-3-642-02737-6_11&partnerID=40&md5=6a490e6006ce0961bef9372a85f463c5"]
 doi = "10.1007/978-3-642-02737-6_11"
 +++
