@@ -12,6 +12,6 @@ image, under an injective morphism, of a suitable standard Arnoux-Rauzy word."""
 selected = false
 publication = "*Language and Automata Theory and Applications*"
 tags = ["Arnoux-Rauzy words", "Episturmian words and morphisms", "Morphic images of AR words", "Special factors"]
-url_custom = ["Scopus", "\1"]
+url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-67649958628&doi=10.1007%2f978-3-642-00982-2_22&partnerID=40&md5=d47d50ae24fc4b858bc4984799331646"]
 doi = "10.1007/978-3-642-00982-2_22"
 +++
