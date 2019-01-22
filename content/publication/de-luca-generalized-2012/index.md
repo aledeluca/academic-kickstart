@@ -32,6 +32,6 @@ an extension of the class of ϑ-standard words introduced by the authors in
 selected = false
 publication = "*Theoretical Computer Science*"
 tags = ["Factor complexity", "Morphic images of AR words", "Palindromization", "Pseudopalindromes"]
-url_custom = ["Scopus", "\1"]
+url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84866025733&doi=10.1016%2fj.tcs.2012.01.029&partnerID=40&md5=e7ea99bdd4e764d69320798d32390be1"]
 doi = "10.1016/j.tcs.2012.01.029"
 +++
