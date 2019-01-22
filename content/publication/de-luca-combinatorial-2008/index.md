@@ -6,6 +6,6 @@ publication_types = ["4"]
 abstract = ""
 selected = false
 publication = ""
-tags = ["tesi"]
+tags = ["(Generalized) Pseudostandard words", "Palindromization", "Pseudopalindromes", "Sturmian words"]
 +++
 
