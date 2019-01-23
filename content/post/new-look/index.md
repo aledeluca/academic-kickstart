@@ -35,5 +35,5 @@ categories = []
 
 I completely redesigned this webpage using
 [Academic](https://sourcethemes.com/academic/) and
-[GitHub](https://github.com/). Hopefully, this
+[Hugo](https://gohugo.io/). Hopefully, this
 will help in keeping the page up-to-date and useful.
