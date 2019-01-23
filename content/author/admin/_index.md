@@ -22,7 +22,8 @@ email = ""
 interests = [
   "Combinatorics on Words",
   "Automata and Formal Languages",
-  "Discrete Mathematics"
+  "Discrete Mathematics",
+  "String Algorithms"
 ]
 
 # List your qualifications (such as academic degrees).
