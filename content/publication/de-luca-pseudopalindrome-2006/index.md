@@ -21,7 +21,7 @@ extend the construction of standard episturmian words via directive words. In
 this way one obtains a family of infinite words, called ϑ-standard words, which
 are morphic images of episturmian words, as well as a wider family of infinite
 words including the Thue-Morse word on two symbols."""
-featured = false
+featured = true
 publication = "*Theoretical Computer Science*"
 tags = ["(Generalized) Pseudostandard words", "Episturmian words and morphisms", "Palindromization", "Pseudopalindromes"]
 url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-33748756619&doi=10.1016%2fj.tcs.2006.07.009&partnerID=40&md5=08a67276911fe79ab1e48c391cdd67ad"}]
