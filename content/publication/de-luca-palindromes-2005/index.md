@@ -12,6 +12,6 @@ palindromes is obtained."""
 selected = false
 publication = "*Developments in Language Theory*"
 tags = ["Central words", "Enumeration", "Palindromes", "Sturmian words"]
-url_custom = ["Scopus", "\1"]
+url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-26444598495&partnerID=40&md5=f731f00f83b2affd257ced60e4a1c668"]
 doi = "10.1007/11505877_18"
 +++
