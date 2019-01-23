@@ -1,39 +1,12 @@
 +++
 # About/Biography widget.
-widget = "about"
-active = true
+widget = "about"  # Do not modify this line!
+active = true  # Activate this widget? true/false
+weight = 5  # Order that this section will appear in.
 date = 2016-04-20T00:00:00
 
-# Order that this section will appear in.
-weight = 5
+title = "Biography"
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Combinatorics on Words",
-    "Automata and Formal Languages",
-    "Discrete Mathematics"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD at Graduate School of Mathematics and Computer Science"
-  institution = "Università di Napoli Federico II"
-  year = 2008
-
-[[education.courses]]
-  course = "MSc in Mathematics"
-  institution = "Università di Napoli Federico II"
-  year = 2003
-
-+++
-
-
-# Biography
-
-I am an assistant professor (_Researcher_ ) of Computer Science at [Università di Napoli Federico II](http://www.unina.it/en_GB/home) (Naples, Italy), formerly at the [University of Turku](https://www.utu.fi/en) and [UQAM](https://uqam.ca/).
-
-My research interests include Sturmian words and generalizations, pseudopalindromes, rich words, and periodicity.
-
-_[Teaching/insitutional homepage](https://www.docenti.unina.it/alessandro.deluca)_
-(Italian)
+# Choose the user profile to display
+# This should be the username of a profile in your `content/author/` folder.
+author = "Admin"
