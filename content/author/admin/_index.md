@@ -54,6 +54,40 @@ interests = [
 #
 #   Full list: https://jpswalsh.github.io/academicons/
 
+[[social]]
+  icon = "envelope"
+  icon_pack = "fas"
+  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+
+ # [[social]]
+ #  icon = "twitter"
+ #  icon_pack = "fab"
+ #  link = "https://twitter.com/GeorgeCushen"
+
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=R3cxnU8AAAAJ"
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/delucaale"
+
+[[social]]
+  icon = "arxiv"
+  icon_pack = "ai"
+  link = "http://arxiv.org/a/deluca_a_2"
+
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0003-1704-773X"
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Alessandro_De_Luca"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
