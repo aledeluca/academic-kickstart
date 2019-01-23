@@ -27,6 +27,6 @@ standard episturmian word."""
 featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Episturmian words and morphisms", "Pseudopalindromes", "Theta-characteristic morphisms", "Theta-episturmian words"]
-url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-67649999571&doi=10.1016%2fj.tcs.2008.12.001&partnerID=40&md5=eb6dd5fbda27017d07c977fad861cdd4"]
+url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-67649999571&doi=10.1016%2fj.tcs.2008.12.001&partnerID=40&md5=eb6dd5fbda27017d07c977fad861cdd4"}]
 doi = "10.1016/j.tcs.2008.12.001"
 +++

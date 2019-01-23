@@ -17,6 +17,6 @@ images of them, have the WDO property."""
 featured = false
 publication = "*Combinatorics on Words*"
 tags = ["Arnoux-Rauzy words", "Linear congruential generators", "Sturmian words", "Well distributed occurrences"]
-url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84886043752&doi=10.1007%2f978-3-642-40579-2-8&partnerID=40&md5=bb1398f8906e870386b6d490b97688be"]
+url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84886043752&doi=10.1007%2f978-3-642-40579-2-8&partnerID=40&md5=bb1398f8906e870386b6d490b97688be"}]
 doi = "10.1007/978-3-642-40579-2_8"
 +++

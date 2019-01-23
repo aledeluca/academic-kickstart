@@ -29,6 +29,6 @@ the WELLDOC property."""
 featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Arnoux-Rauzy words","Linear congruential generators","Morphic images of AR words","Well distributed occurrences"]
-url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84995580487&doi=10.1016%2fj.tcs.2016.07.042&partnerID=40&md5=9f36efa9ac62506cbbbf9e94284fa138"]
+url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84995580487&doi=10.1016%2fj.tcs.2016.07.042&partnerID=40&md5=9f36efa9ac62506cbbbf9e94284fa138"}]
 doi = "10.1016/j.tcs.2016.07.042"
 +++

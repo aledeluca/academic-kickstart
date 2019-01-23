@@ -15,6 +15,6 @@ written as an infinite product of squares of reversed standard words."""
 featured = false
 publication = "*Combinatorics on Words*"
 tags = ["Complete returns", "Continued fractions", "OC array", "Sturmian words"]
-url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84886046250&doi=10.1007%2f978-3-642-40579-2-15&partnerID=40&md5=f48cf557bbd4d5709a78ef7e36e700f5"]
+url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84886046250&doi=10.1007%2f978-3-642-40579-2-15&partnerID=40&md5=f48cf557bbd4d5709a78ef7e36e700f5"}]
 doi = "10.1007/978-3-642-40579-2_15"
 +++

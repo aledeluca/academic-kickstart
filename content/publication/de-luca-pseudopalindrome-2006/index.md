@@ -24,6 +24,6 @@ words including the Thue-Morse word on two symbols."""
 featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["(Generalized) Pseudostandard words", "Episturmian words and morphisms", "Palindromization", "Pseudopalindromes"]
-url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-33748756619&doi=10.1016%2fj.tcs.2006.07.009&partnerID=40&md5=08a67276911fe79ab1e48c391cdd67ad"]
+url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-33748756619&doi=10.1016%2fj.tcs.2006.07.009&partnerID=40&md5=08a67276911fe79ab1e48c391cdd67ad"}]
 doi = "10.1016/j.tcs.2006.07.009"
 +++

@@ -26,6 +26,6 @@ relationships between ϑ-words (with or without seed) and
 featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["(Generalized) Pseudostandard words", "Episturmian words and morphisms", "Pseudopalindromes", "Theta-episturmian words"]
-url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-39849103143&doi=10.1016%2fj.tcs.2007.10.043&partnerID=40&md5=8ee33852bf20144e3867513c0a81d66d"]
+url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-39849103143&doi=10.1016%2fj.tcs.2007.10.043&partnerID=40&md5=8ee33852bf20144e3867513c0a81d66d"}]
 doi = "10.1016/j.tcs.2007.10.043"
 +++

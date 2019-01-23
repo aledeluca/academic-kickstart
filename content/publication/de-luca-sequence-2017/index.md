@@ -20,6 +20,6 @@ finite Sturmian word from its oc-sequence."""
 featured = false
 publication = "*Advances in Applied Mathematics*"
 tags = ["Complete returns", "OC array", "String algorithms", "Sturmian words"]
-url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018376981&doi=10.1016%2fj.aam.2017.04.007&partnerID=40&md5=2e96199f6f8d904c3ac32b3b882247d0"]
+url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018376981&doi=10.1016%2fj.aam.2017.04.007&partnerID=40&md5=2e96199f6f8d904c3ac32b3b882247d0"}]
 doi = "10.1016/j.aam.2017.04.007"
 +++

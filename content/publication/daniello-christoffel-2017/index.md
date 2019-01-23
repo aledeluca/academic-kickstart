@@ -18,6 +18,6 @@ upper bounds for it."""
 featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Christoffel derivative", "Christoffel words", "Continued fractions", "Sturmian words"]
-url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85006164676&doi=10.1016%2fj.tcs.2016.05.010&partnerID=40&md5=010df2ccbab0214b1c6a6390fe0c7009"]
+url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85006164676&doi=10.1016%2fj.tcs.2016.05.010&partnerID=40&md5=010df2ccbab0214b1c6a6390fe0c7009"}]
 doi = "10.1016/j.tcs.2016.05.010"
 +++

@@ -20,6 +20,6 @@ number of distinct palindromic factors (resp. factors) of each length in
 featured = false
 publication = "*Advances in Applied Mathematics*"
 tags = ["Factor complexity", "Palindromes", "Reduced Rauzy graph", "Rich words"]
-url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-56749104342&doi=10.1016%2fj.aam.2008.03.005&partnerID=40&md5=01a61f92de8ff1167a423edd1c3ba686"]
+url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-56749104342&doi=10.1016%2fj.aam.2008.03.005&partnerID=40&md5=01a61f92de8ff1167a423edd1c3ba686"}]
 doi = "10.1016/j.aam.2008.03.005"
 +++
