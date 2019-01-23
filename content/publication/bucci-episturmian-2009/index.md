@@ -17,7 +17,7 @@ has
 
 then there exists an involutory antimorphism $\\theta$ of the free monoid
 $A^\\*$ preserving the set of factors of $\\omega$."""
-selected = false
+featured = false
 publication = "*European Journal of Combinatorics*"
 tags = ["Arnoux-Rauzy words", "Factor complexity", "Pseudopalindromes", "Theta-episturmian words"]
 url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-57149135908&doi=10.1016%2fj.ejc.2008.04.010&partnerID=40&md5=7a5fcb78a0eb1f379354db7f018dc6b9"]

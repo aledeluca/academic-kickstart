@@ -19,7 +19,7 @@ Christoffel and central words. One of our main results is a non-commutative
 version of the *alternating bit sets theorem* by Calkin and Wilf. We also study
 the length distribution of Christoffel words corresponding to nodes of equal
 height in the tree, obtaining some interesting bounds and inequalities."""
-selected = false
+featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Calkin-Wilf tree", "Christoffel words", "Stern sequence", "Sturmian words"]
 url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84951727658&doi=10.1016%2fj.tcs.2015.02.043&partnerID=40&md5=53761229a1b92afea34e148f70b33aab"]

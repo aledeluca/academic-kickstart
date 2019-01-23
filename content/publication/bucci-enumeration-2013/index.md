@@ -22,7 +22,7 @@ two different letters *x*, *y*. Finally, we investigate the prefixes of the
 Fibonacci word with respect to the property of being open or closed
 trapezoidal words, and show that the sequence of open and closed
 prefixes of the Fibonacci word follows the Fibonacci sequence."""
-selected = false
+featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Complete returns", "Enumeration", "OC array", "Trapezoidal words"]
 url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84871620403&doi=10.1016%2fj.tcs.2012.11.007&partnerID=40&md5=ddfa97acef42b1a895d47c670fa5546e"]

@@ -12,7 +12,7 @@ isomorphisms of the alphabet. We then characterize the combinatorial structure
 of the sequence of open and closed prefixes of standard Sturmian words. We prove
 that every standard Sturmian word, after swapping its first letter, can be
 written as an infinite product of squares of reversed standard words."""
-selected = false
+featured = false
 publication = "*Combinatorics on Words*"
 tags = ["Complete returns", "Continued fractions", "OC array", "Sturmian words"]
 url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84886046250&doi=10.1007%2f978-3-642-40579-2-15&partnerID=40&md5=f48cf557bbd4d5709a78ef7e36e700f5"]

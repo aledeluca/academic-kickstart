@@ -13,7 +13,7 @@ established. A particularly nice characteristic property is that all
 rich words are also characterized by the property that each factor is uniquely
 determined by its longest palindromic prefix and its longest palindromic suffix.
 """
-selected = false
+featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Complete returns", "Palindromes", "Periodicity", "Rich words"]
 url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-67649637076&doi=10.1016%2fj.tcs.2008.11.001&partnerID=40&md5=894f3ce224359efa3022bd96cbc2c978"]

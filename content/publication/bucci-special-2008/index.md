@@ -9,7 +9,7 @@ finite alphabet, and *N* ≥ 0 be an integer. Suppose that all left special
 factors of *s* longer than *N* are prefixes of *s*, and that *s* has at most one
 right special factor of each length greater than *N*. Then *s* is a morphic
 image, under an injective morphism, of a suitable standard Arnoux-Rauzy word."""
-selected = false
+featured = false
 publication = "*Local Proceedings of the 12th Journées Montoises d'Informatique Théorique*"
 tags = ["Arnoux-Rauzy words", "Episturmian words and morphisms", "Morphic images of AR words", "Special factors"]
 +++

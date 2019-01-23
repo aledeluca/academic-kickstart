@@ -15,7 +15,7 @@ word. We show that pseudostandard words with seed are morphic images of standard
 episturmian words. Moreover, we prove that for any given pseudostandard word *s*
 with seed, all sufficiently long left special factors of *s* are prefixes of
 it."""
-selected = false
+featured = false
 publication = "*RAIRO - Theoretical Informatics and Applications*"
 tags = ["(Generalized) Pseudostandard words", "Episturmian words and morphisms", "Palindromization", "Pseudopalindromes"]
 url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-53349121369&doi=10.1051%2fita%3a2007064&partnerID=40&md5=9f3d1044d8b259a9c2c0247125fd0644"]

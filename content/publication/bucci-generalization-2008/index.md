@@ -11,7 +11,7 @@ In a recent paper with L. Q. Zamboni the authors introduced the class of
 words into standard ϑ-episturmian words. They are a natural extension of
 standard episturmian morphisms. The main result of the paper is a
 characterization of these morphisms when they are injective."""
-selected = false
+featured = false
 publication = "*Developments in Language Theory*"
 tags = ["Episturmian words and morphisms", "Pseudopalindromes", "Theta-characteristic morphisms", "Theta-episturmian words"]
 url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-54249112448&doi=10.1007%2f978-3-540-85780-8_12&partnerID=40&md5=2dd1d5a10e4e042ce44765542dd22cd6"]

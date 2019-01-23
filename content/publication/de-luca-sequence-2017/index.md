@@ -17,7 +17,7 @@ We then discuss several aspects of Sturmian words that can be expressed through
 this sequence. Finally, we provide a linear-time algorithm that computes the
 oc-sequence of a finite word, and a linear-time algorithm that reconstructs a
 finite Sturmian word from its oc-sequence."""
-selected = false
+featured = false
 publication = "*Advances in Applied Mathematics*"
 tags = ["Complete returns", "OC array", "String algorithms", "Sturmian words"]
 url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018376981&doi=10.1016%2fj.aam.2017.04.007&partnerID=40&md5=2e96199f6f8d904c3ac32b3b882247d0"]

@@ -15,7 +15,7 @@ naturally obtained. We define the depth of a Christoffel or standard word as the
 smallest order for which the derivative is a single letter. We give several
 combinatorial and arithmetic descriptions of the depth, and (tight) lower and
 upper bounds for it."""
-selected = false
+featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Christoffel derivative", "Christoffel words", "Continued fractions", "Sturmian words"]
 url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85006164676&doi=10.1016%2fj.tcs.2016.05.010&partnerID=40&md5=010df2ccbab0214b1c6a6390fe0c7009"]

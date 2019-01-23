@@ -11,7 +11,7 @@ among such classes of words, and of the morphisms connecting them to standard
 episturmian words, is given. In particular, we analyse some structural
 properties of standard ϑ-episturmian words and their characteristic
 morphisms."""
-selected = false
+featured = false
 publication = "*Proceedings of WORDS 2007*"
 tags = ["(Generalized) Pseudostandard words", "Episturmian words and morphisms", "Theta-characteristic morphisms", "Theta-episturmian words"]
 +++

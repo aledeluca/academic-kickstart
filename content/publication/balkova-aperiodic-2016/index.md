@@ -26,7 +26,7 @@ that not only the lattice structure is absent, but also other
 important properties of PRNGs are improved when linear
 congruential generators are combined using infinite words having
 the WELLDOC property."""
-selected = false
+featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Arnoux-Rauzy words","Linear congruential generators","Morphic images of AR words","Well distributed occurrences"]
 url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84995580487&doi=10.1016%2fj.tcs.2016.07.042&partnerID=40&md5=9f36efa9ac62506cbbbf9e94284fa138"]

@@ -9,7 +9,7 @@ fractions, giving an insight on the duality relating it to the Stern-Brocot
 tree, and proving noncommutative versions of known results relating labels of
 the Calkin Wilf trees to hyperbinary expansions of positive integers. The main
 tool is the Christoffel tree introduced in a paper by Berstel and de Luca."""
-selected = false
+featured = false
 publication = "*Electronic Journal of Combinatorics*"
 tags = ["Calkin-Wilf tree", "Christoffel words", "Hyperbinary expansions", "Stern sequence"]
 url_custom = ["Scopus", "https://www.scopus.com/inward/record.uri?eid=2-s2.0-80054811434&partnerID=40&md5=fcd3bae00c2f4c06ff8981820a002cfd"]
