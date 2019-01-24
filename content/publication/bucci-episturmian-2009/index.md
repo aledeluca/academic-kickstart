@@ -3,6 +3,7 @@ title = "On θ-episturmian words"
 date = 2009-02-01
 authors = ["Michelangelo Bucci", "Aldo de Luca", "Alessandro De Luca", "Luca Q. Zamboni"]
 publication_types = ["2"]
+math = true
 abstract = """
 In this paper we study a class of infinite words on a finite alphabet
 $A$ whose factors are closed under the image of an involutory

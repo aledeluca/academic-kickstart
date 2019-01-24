@@ -10,7 +10,7 @@ equivalent:
 
 1.  all complete returns to palindromes are palindromes;
 
-2.  *P* (*n*) + *P* (*n*+1) = *C* (*n*+1) - *C* (*n*) + 2$
+2.  *P* (*n*) + *P* (*n*+1) = *C* (*n*+1) - *C* (*n*) + 2
     for all *n*,
 
 where *P* (resp. *C* ) denotes the palindromic

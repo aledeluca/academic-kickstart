@@ -3,6 +3,7 @@ title = "Infinite Words with Well Distributed Occurrences"
 date = 2013-09-01
 authors = ["Ľubomira Balková", "Michelangelo Bucci", "Alessandro De Luca", "Svetlana Puzynina"]
 publication_types = ["1"]
+math = true
 abstract = """
 In this paper we introduce the *well distributed occurrences* (WDO)
 combinatorial property for infinite words, which guarantees good

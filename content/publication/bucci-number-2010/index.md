@@ -3,6 +3,7 @@ title = "On the number of episturmian palindromes"
 date = 2010-09-01
 authors = ["Michelangelo Bucci", "Aldo de Luca", "Alessandro De Luca"]
 publication_types = ["2"]
+math = true
 abstract = """
 Episturmian words are a suitable generalization to arbitrary alphabets of
 Sturmian words. In this paper we are interested in the problem of enumerating
