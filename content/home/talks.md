@@ -26,4 +26,4 @@ exclude_featured = false
 {{% alert note %}}
 See [calendar](https://calendar.google.com/calendar/embed?src=ioaeekgm5r2665lkdo742q82j0%40group.calendar.google.com&ctz=Europe%2FRome)
 for upcoming scheduled events.
-{{% /alert }}
+{{% /alert %}}
