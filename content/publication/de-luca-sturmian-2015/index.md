@@ -22,6 +22,7 @@ height in the tree, obtaining some interesting bounds and inequalities."""
 featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Calkin-Wilf tree", "Christoffel words", "Stern sequence", "Sturmian words"]
+url_pdf = "https://arxiv.org/pdf/1410.4085"
 url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84951727658&doi=10.1016%2fj.tcs.2015.02.043&partnerID=40&md5=53761229a1b92afea34e148f70b33aab"}]
 doi = "10.1016/j.tcs.2015.02.043"
 +++
