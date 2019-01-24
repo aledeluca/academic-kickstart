@@ -1,10 +1,11 @@
 +++
 title = "Curriculum Vitae"
+subtitle = "Alessandro De Luca"
 date = 2019-01-24T17:49:55+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Admin"]
+authors = ["ADL"]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -33,6 +34,8 @@ categories = []
   preview_only = true
 +++
 
+{{% toc %}}
+
 # Personal
 
 Born: 1981 in Heerlen, Netherlands. Nationality: Italian.
@@ -46,7 +49,7 @@ Computer Science at the same university since December 28, 2010.
 
 # Past Employment and Education
 
-  - Post-doc researcher at the Department of Mathematics of the
+  - Post-doc researcher at the Department of Mathematics and Statistics of the
     University of Turku (Finland), within the “Words, Numbers and
     Tilings with Applications” project, headed by Luca Q. Zamboni and
     sponsored by the Finnish Academy via a FiDiPro grant, from October
@@ -76,55 +79,55 @@ Computer Science at the same university since December 28, 2010.
   - Native Italian speaker; fluent English speaker and good French
     speaker.
 
-    # Teaching Experience
+# Teaching Experience
 
-      - Since academic year 2012–13, adjunct professor of Information
-        Theory, a graduate Computer Science class at the University of
-        Naples Federico II. From 2005–06 till 2007–08, teaching assistance
-        for the same class, then held by Aldo de Luca.
+  - Since academic year 2012–13, adjunct professor of Information
+    Theory, a graduate Computer Science class at the University of
+    Naples Federico II. From 2005–06 till 2007–08, teaching assistance
+    for the same class, then held by Aldo de Luca.
 
-      - Since academic year 2011–12, adjunct professor of Databases and
-        Information Systems lab, an undergraduate Computer Science class at
-        the University of Naples Federico II.
+  - Since academic year 2011–12, adjunct professor of Databases and
+    Information Systems lab, an undergraduate Computer Science class at
+    the University of Naples Federico II.
 
-      - Teaching assistance for the Mathematics for Computer Science class
-        held by Anne Bergeron at UQAM in 2010.
+  - Teaching assistance for the Mathematics for Computer Science class
+    held by Anne Bergeron at UQAM in 2010.
 
-      - Teaching assistance for the Matrix Algebra class held by Srečko
-        Brlek at UQAM in 2010.
+  - Teaching assistance for the Matrix Algebra class held by Srečko
+    Brlek at UQAM in 2010.
 
-    # Scientific Research
+# Scientific Research
 
-    The main areas of my research are theoretical computer science and
-    discrete mathematics. In particular, I am interested in *combinatorics
-    on words*, the study of structural and algebraic properties of finite
-    and infinite strings of symbols. This field has deep connections with
-    number theory, physics, biology, and other areas of computer science.
+The main areas of my research are theoretical computer science and
+discrete mathematics. In particular, I am interested in *combinatorics
+on words*, the study of structural and algebraic properties of finite
+and infinite strings of symbols. This field has deep connections with
+number theory, physics, biology, and other areas of computer science.
 
-    Sturmian words and generalizations have been the main focus of my
-    investigation. Recently, I mostly concentrated on Christoffel words
-    with their connection to number theory, and on open vs. closed (aka
-    *periodic-like*) prefixes of words, especially in the Sturmian and
-    trapezoidal cases . We also found that Sturmian and Arnoux-Rauzy words
-    have *well distributed occurrences*, showing how this yields
-    statistically valid pseudorandom number generation. In a different line
-    of research, we characterized infinite Sturmian words in terms of the
-    lexicographic order.
+Sturmian words and generalizations have been the main focus of my
+investigation. Recently, I mostly concentrated on Christoffel words
+with their connection to number theory, and on open vs. closed (aka
+*periodic-like*) prefixes of words, especially in the Sturmian and
+trapezoidal cases . We also found that Sturmian and Arnoux-Rauzy words
+have *well distributed occurrences*, showing how this yields
+statistically valid pseudorandom number generation. In a different line
+of research, we characterized infinite Sturmian words in terms of the
+lexicographic order.
 
-    Previously, I had also focused on rich words, a broad family containing
-    (epi-)Sturmian words and their factors, from the point of view of
-    periodicity and complexity. Inspired by bioinformatics (Watson-Crick
-    involution), we also introduced and studied some different
-    generalizations of episturmian words, all based on *special factors* and
-    *involutory antimorphisms* of the free monoid. In other papers related
-    to episturmian words, we used and expanded the important tool known as
-    (iterated) palindromic closure or *palindromization*.
+Previously, I had also focused on rich words, a broad family containing
+(epi-)Sturmian words and their factors, from the point of view of
+periodicity and complexity. Inspired by bioinformatics (Watson-Crick
+involution), we also introduced and studied some different
+generalizations of episturmian words, all based on *special factors* and
+*involutory antimorphisms* of the free monoid. In other papers related
+to episturmian words, we used and expanded the important tool known as
+(iterated) palindromic closure or *palindromization*.
 
-    My first efforts were devoted to finite factors of Sturmian words,
-    finding new characterizations (implemented as linear-time algorithms)
-    and studying the structure and enumeration of palindromic factors.
+My first efforts were devoted to finite factors of Sturmian words,
+finding new characterizations (implemented as linear-time algorithms)
+and studying the structure and enumeration of palindromic factors.
 
-    ## Research Projects and Collaborations
+## Research Projects and Collaborations
 
   - Ongoing collaboration with Gabriele Fici (University of Palermo) and
     Golnaz Badkobeh (Goldsmiths University of London), among others.
@@ -152,7 +155,7 @@ Computer Science at the same university since December 28, 2010.
   - Invited at the University of Turku (Finland) from March till June
     2006, for research under the supervision of Prof. Juhani Karhumäki.
 
-    ## Attended Conferences and Workshops
+## Attended Conferences and Workshops
 
   - *Workshop on Words and Complexity*: Lyon 2018.
 
@@ -206,7 +209,7 @@ Computer Science at the same university since December 28, 2010.
 
   - *Workshop on Words and Automata*, St. Petersburg 2006.
 
-  ## Talks
+## Talks
 
   - *The sequence of open and closed prefixes of a Sturmian word*, at
     the ICP workshop in Palermo, January 20, 2017.
@@ -244,4 +247,3 @@ Computer Science at the same university since December 28, 2010.
 
   - *Palindromes in Sturmian Words*, at the DLT conference in Palermo,
     July 8, 2005.
-    

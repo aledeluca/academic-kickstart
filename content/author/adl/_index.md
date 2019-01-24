@@ -107,7 +107,7 @@ I am an assistant professor (_Researcher_ ) of Computer Science at
 My research interests include Sturmian words and generalizations,
 pseudopalindromes, rich words, and periodicity.
 
-**[Curriculum Vitae]{{< ref "cv.md" >}}**
+How do I link my **[Curriculum Vitae]({{< ref "cv.md" >}})**, dammit
 
 *[Teaching/insitutional homepage](https://www.docenti.unina.it/alessandro.deluca)*
 (Italian)
