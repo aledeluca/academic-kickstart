@@ -111,3 +111,5 @@ How do I link my **[Curriculum Vitae]({{< ref "cv.md" >}})**, dammit
 
 *[Teaching/insitutional homepage](https://www.docenti.unina.it/alessandro.deluca)*
 (Italian)
+
+{{< figure library="1" src="featured.png" title="" >}}

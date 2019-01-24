@@ -31,8 +31,10 @@ categories = []
   focal_point = "Smart"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 +++
+
+{{% staticref "files/cvADL_en.pdf" %}}Download as PDF{{% /staticref %}}
 
 {{% toc %}}
 
@@ -43,7 +45,7 @@ Born: 1981 in Heerlen, Netherlands. Nationality: Italian.
 # Current position
 
 Member of the Department of Electrical Engineering and Information
-Technologies (DIETI) since its activation at the University of Naples
+Technology (DIETI) since its activation at the University of Naples
 Federico II on January 1, 2013. Aassistant professor (*Ricercatore*) of
 Computer Science at the same university since December 28, 2010.
 
@@ -98,34 +100,35 @@ Computer Science at the same university since December 28, 2010.
 
 # Scientific Research
 
-The main areas of my research are theoretical computer science and
-discrete mathematics. In particular, I am interested in *combinatorics
-on words*, the study of structural and algebraic properties of finite
-and infinite strings of symbols. This field has deep connections with
-number theory, physics, biology, and other areas of computer science.
+  The main areas of my research are theoretical computer science and
+  discrete mathematics. In particular, I am interested in *combinatorics
+  on words*, the study of structural and algebraic properties of finite
+  and infinite strings of symbols. This field has deep connections with
+  number theory, physics, biology, and other areas of computer science.
 
-Sturmian words and generalizations have been the main focus of my
-investigation. Recently, I mostly concentrated on Christoffel words
-with their connection to number theory, and on open vs. closed (aka
-*periodic-like*) prefixes of words, especially in the Sturmian and
-trapezoidal cases . We also found that Sturmian and Arnoux-Rauzy words
-have *well distributed occurrences*, showing how this yields
-statistically valid pseudorandom number generation. In a different line
-of research, we characterized infinite Sturmian words in terms of the
-lexicographic order.
+  Sturmian words and generalizations have been the main focus of my
+  investigation. Recently, I mostly concentrated on
+  [Christoffel words]()
+  with their connection to number theory, and on open vs. closed (aka
+  *periodic-like*) prefixes of words, especially in the Sturmian and
+  trapezoidal cases . We also found that Sturmian and Arnoux-Rauzy words
+  have *well distributed occurrences*, showing how this yields
+  statistically valid pseudorandom number generation. In a different line
+  of research, we characterized infinite Sturmian words in terms of the
+  lexicographic order.
 
-Previously, I had also focused on rich words, a broad family containing
-(epi-)Sturmian words and their factors, from the point of view of
-periodicity and complexity. Inspired by bioinformatics (Watson-Crick
-involution), we also introduced and studied some different
-generalizations of episturmian words, all based on *special factors* and
-*involutory antimorphisms* of the free monoid. In other papers related
-to episturmian words, we used and expanded the important tool known as
-(iterated) palindromic closure or *palindromization*.
+  Previously, I had also focused on rich words, a broad family containing
+  (epi-)Sturmian words and their factors, from the point of view of
+  periodicity and complexity. Inspired by bioinformatics (Watson-Crick
+  involution), we also introduced and studied some different
+  generalizations of episturmian words, all based on *special factors* and
+  *involutory antimorphisms* of the free monoid. In other papers related
+  to episturmian words, we used and expanded the important tool known as
+  (iterated) palindromic closure or *palindromization*.
 
-My first efforts were devoted to finite factors of Sturmian words,
-finding new characterizations (implemented as linear-time algorithms)
-and studying the structure and enumeration of palindromic factors.
+  My first efforts were devoted to finite factors of Sturmian words,
+  finding new characterizations (implemented as linear-time algorithms)
+  and studying the structure and enumeration of palindromic factors.
 
 ## Research Projects and Collaborations
 
@@ -247,3 +250,5 @@ and studying the structure and enumeration of palindromic factors.
 
   - *Palindromes in Sturmian Words*, at the DLT conference in Palermo,
     July 8, 2005.
+
+# [Publications](/publication/)
