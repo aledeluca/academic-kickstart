@@ -25,7 +25,7 @@ prefixes of the Fibonacci word follows the Fibonacci sequence."""
 featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Complete returns", "Enumeration", "OC array", "Trapezoidal words"]
-url_pdf = "https://arxiv.org/pdf/1203.1203"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0304397512010377/pdf?md5=432032c27e3a3b1a9494673593ca8dc7&pid=1-s2.0-S0304397512010377-main.pdf"
 url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84871620403&doi=10.1016%2fj.tcs.2012.11.007&partnerID=40&md5=ddfa97acef42b1a895d47c670fa5546e"}]
 doi = "10.1016/j.tcs.2012.11.007"
 +++

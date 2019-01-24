@@ -15,7 +15,7 @@ words, or obtained by a three-interval exchange transformation."""
 featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Christoffel words", "Interval exchange transformations", "Sturmian words", "Three gap theorem"]
-url_pdf = "https://arxiv.org/pdf/1211.3049"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0304397513004544/pdf?md5=45606cfe5e1bf0ec202758483bf1b1b7&pid=1-s2.0-S0304397513004544-main.pdf"
 url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84880217822&doi=10.1016%2fj.tcs.2013.05.042&partnerID=40&md5=f788a8f52a0edfaf4a293f56fa586405"}]
 doi = "10.1016/j.tcs.2013.05.042"
 +++

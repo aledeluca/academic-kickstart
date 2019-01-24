@@ -32,7 +32,7 @@ an extension of the class of ϑ-standard words introduced by the authors in
 featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Factor complexity", "Morphic images of AR words", "Palindromization", "Pseudopalindromes"]
-url_pdf = "https://arxiv.org/pdf/1111.1823"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0304397512000655/pdf?md5=478d2cc0c1894609cb6dce53ac53b9e8&pid=1-s2.0-S0304397512000655-main.pdf"
 url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84866025733&doi=10.1016%2fj.tcs.2012.01.029&partnerID=40&md5=e7ea99bdd4e764d69320798d32390be1"}]
 doi = "10.1016/j.tcs.2012.01.029"
 +++
