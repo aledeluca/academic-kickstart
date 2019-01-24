@@ -1,5 +1,5 @@
 +++
-title = "On *θ*-episturmian words"
+title = "On θ-episturmian words"
 date = 2009-02-01
 authors = ["Michelangelo Bucci", "Aldo de Luca", "Alessandro De Luca", "Luca Q. Zamboni"]
 publication_types = ["2"]
