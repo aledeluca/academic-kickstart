@@ -108,7 +108,7 @@ Computer Science at the same university since December 28, 2010.
 
   Sturmian words and generalizations have been the main focus of my
   investigation. Recently, I mostly concentrated on
-  [Christoffel words]()
+  [Christoffel words](/tags/christoffel-words/)
   with their connection to number theory, and on open vs. closed (aka
   *periodic-like*) prefixes of words, especially in the Sturmian and
   trapezoidal cases . We also found that Sturmian and Arnoux-Rauzy words

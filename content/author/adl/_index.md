@@ -100,6 +100,7 @@ interests = [
 +++
 
 I am an assistant professor (_Researcher_ ) of Computer Science at
+[DIETI](http://www.dieti.unina.it/index.php?lang=en),
 [Università di Napoli Federico II](http://www.unina.it/en_GB/home)
 (Naples, Italy), formerly at the
 [University of Turku](https://www.utu.fi/en) and [UQAM](https://uqam.ca/).
@@ -107,9 +108,7 @@ I am an assistant professor (_Researcher_ ) of Computer Science at
 My research interests include Sturmian words and generalizations,
 pseudopalindromes, rich words, and periodicity.
 
-How do I link my **[Curriculum Vitae]({{< ref "cv.md" >}})**, dammit
-
 *[Teaching/insitutional homepage](https://www.docenti.unina.it/alessandro.deluca)*
-(Italian)
+(Italian) | **[Curriculum Vitae]({{< ref "/cv.md" >}})**
 
-{{< figure library="1" src="featured.png" title="" >}}
+[{{< figure library="1" src="dieti.png" title="" >}}](http://www.dieti.unina.it/index.php?lang=en)
