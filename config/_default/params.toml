@@ -115,7 +115,7 @@ publication_types = [
   'Conference paper',  # 1
   'Journal article',  # 2
   'Manuscript',  # 3
-  'Report',  # 4
+  'Thesis',  # 4
   'Book',  # 5
   'Book section'  # 6
 ]

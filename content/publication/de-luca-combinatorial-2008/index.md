@@ -7,5 +7,5 @@ abstract = ""
 featured = false
 publication = ""
 tags = ["(Generalized) Pseudostandard words", "Palindromization", "Pseudopalindromes", "Sturmian words"]
+url_pdf = "http://www.fedoa.unina.it/2016/1/De_Luca_Scienze_Matematiche.pdf"
 +++
-
