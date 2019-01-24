@@ -1,6 +1,6 @@
 +++
 title = "Curriculum Vitae"
-subtitle = "Alessandro De Luca"
+subtitle = "Alessandro De Luca, as of Jan 24, 2019"
 date = 2019-01-24T17:49:55+01:00
 draft = false
 
@@ -34,7 +34,7 @@ categories = []
   preview_only = false
 +++
 
-{{% staticref "files/cvADL_en.pdf" %}}Download as PDF{{% /staticref %}}
+**{{% staticref "files/cvADL_en.pdf" %}}Download as PDF{{% /staticref %}}**
 
 {{% toc %}}
 

@@ -11,5 +11,3 @@ title = "Biography"
 # This should be the username of a profile in your `content/author/` folder.
 author = "ADL"
 +++
-
-{{< figure library="1" src="featured.png" title="" >}}
