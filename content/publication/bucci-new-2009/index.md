@@ -1,7 +1,7 @@
 +++
 title = "A new characteristic property of rich words"
 date = 2009-08-01
-authors = ["M. Bucci", "A. De Luca", "A. Glen", "L. Q. Zamboni"]
+authors = ["Michelangelo Bucci", "Alessandro De Luca", "Amy Glen", "Luca Q. Zamboni"]
 publication_types = ["2"]
 abstract = """
 Originally introduced and studied by the third and fourth authors together with
