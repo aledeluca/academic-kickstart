@@ -108,39 +108,39 @@ Computer Science at the same university since December 28, 2010.
 
   Sturmian words and generalizations have been the main focus of my
   investigation. Recently, I mostly concentrated on
-  [Christoffel words](/tags/christoffel-words/)
+  [Christoffel words](../tags/christoffel-words/)
   with their connection to number theory, and on
-  [open vs. closed](/tags/oc-array/) (aka
-  [*periodic-like*](/tags/complete-returns/)) prefixes of words,
+  [open vs. closed](../tags/oc-array/) (aka
+  [*periodic-like*](../tags/complete-returns/)) prefixes of words,
   especially in the Sturmian and
   trapezoidal cases . We also found that Sturmian and Arnoux-Rauzy words
-  have [*well distributed occurrences*](/tags/well-distributed-occurrences/),
+  have [*well distributed occurrences*](../tags/well-distributed-occurrences/),
   showing how this yields
   statistically valid pseudorandom number generation. In a different line
   of research, we characterized infinite Sturmian words in terms of the
-  [lexicographic order](/tags/lexicographic-order).
+  [lexicographic order](../tags/lexicographic-order).
 
   Previously, I had also focused on
-  [rich words](/tags/rich-words/), a broad family containing
+  [rich words](../tags/rich-words/), a broad family containing
   (epi-)Sturmian words and their factors, from the point of view of
-  [periodicity](/tags/periodicity/) and
-  [complexity](/tags/factor-complexity/). Inspired by bioinformatics
+  [periodicity](../tags/periodicity/) and
+  [complexity](../tags/factor-complexity/). Inspired by bioinformatics
   (Watson-Crick involution), we also introduced and studied some different
   generalizations of episturmian words, all based on
-  [*special factors*](/tags/special-factors/) and
-  [*involutory antimorphisms*](/tags/pseudopalindromes/) of the free monoid.
+  [*special factors*](../tags/special-factors/) and
+  [*involutory antimorphisms*](../tags/pseudopalindromes/) of the free monoid.
   In other papers related to
-  [episturmian words](/tags/episturmian-words-and-morphisms/), we used and
+  [episturmian words](../tags/episturmian-words-and-morphisms/), we used and
   expanded the important tool known as (iterated) palindromic closure or
-  [*palindromization*](/tags/palindromization/).
+  [*palindromization*](../tags/palindromization/).
 
   My first efforts were devoted to finite factors of
-  [Sturmian words](/tags/sturmian-words/),
+  [Sturmian words](../tags/sturmian-words/),
   finding new characterizations (implemented as linear-time
-  [algorithms](/tags/string-algorithms/))
+  [algorithms](../tags/string-algorithms/))
   and studying the structure and
-  [enumeration](/tags/enumeration/) of
-  [palindromic](/tags/palindromes/) factors.
+  [enumeration](../tags/enumeration/) of
+  [palindromic](../tags/palindromes/) factors.
 
 ## Research Projects and Collaborations
 

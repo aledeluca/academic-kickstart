@@ -7,7 +7,7 @@ abstract = """
 In this paper we study some classes of infinite words generalizing episturmian
 words, and analyse the relations occurring among such classes. In each case, the
 reversal operator $R$ is replaced by an arbitrary involutory antimorphism
-$\\vartheta$ of the free monoid $A^*$. In particular, we define the class of
+$\\vartheta$ of the free monoid $A^{\\*}$. In particular, we define the class of
 $\\vartheta$-words with seed, whose “standard” elements ($\\vartheta$-standard
 words with seed) are constructed by an iterative $\\vartheta$-palindrome
 closure process, starting from a finite word $u\\_0$ called the seed. When the

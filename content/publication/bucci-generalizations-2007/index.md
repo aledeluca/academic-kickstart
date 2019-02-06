@@ -6,7 +6,7 @@ publication_types = ["1"]
 abstract = """
 We study some classes of infinite words that generalize standard episturmian
 words, defined by replacing the reversal operator with an arbitrary involutory
-antimorphism $\\vartheta$ of $A^*$. An analysis of the relations occurring among
+antimorphism $\\vartheta$ of $A^{\\*}$. An analysis of the relations occurring among
 such classes of words, and of the morphisms connecting them to standard
 episturmian words, is given. In particular, we analyse some structural
 properties of standard $\\vartheta$-episturmian words and their characteristic

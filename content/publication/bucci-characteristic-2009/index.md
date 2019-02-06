@@ -7,7 +7,7 @@ abstract = """
 In a recent paper with L.~Q.~Zamboni, the authors introduced the class of
 *$\\vartheta$-episturmian* words. An infinite word over $A$ is standard
 $\\vartheta$-episturmian, where $\\vartheta$ is an involutory antimorphism of
-$A^*$, if its set of factors is closed under $\\vartheta$ and its left special
+$A^{\\*}$, if its set of factors is closed under $\\vartheta$ and its left special
 factors are prefixes. When $\\vartheta$ is the reversal operator, one obtains
 the usual standard episturmian words.  In this paper, we introduce and study
 *$\\vartheta$-characteristic morphisms*, that is, morphisms which map standard

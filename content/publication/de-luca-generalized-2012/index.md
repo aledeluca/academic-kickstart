@@ -4,14 +4,14 @@ date = 2012-10-01
 authors = ["Aldo de Luca", "Alessandro De Luca"]
 publication_types = ["2"]
 abstract = """
-The palindromization map $\\psi$ in a free monoid $A^*$ was introduced in 1997
+The palindromization map $\\psi$ in a free monoid $A^{\\*}$ was introduced in 1997
 by the first author in the case of a binary alphabet $A$, and later extended by
 other authors to arbitrary alphabets. Acting on infinite words, $\\psi$
 generates the class of standard episturmian words, including standard
 Arnoux-Rauzy words.
 In this paper we generalize the palindromization map, starting with a given code
 $X$ over $A$. The new map $\\psi\\_X$  maps $X^*$ to the set $PAL$ of
-palindromes of $A^*$. In this way some properties of $\\psi$ are lost and some
+palindromes of $A^{\\*}$. In this way some properties of $\\psi$ are lost and some
 are saved in a weak form. When $X$ has a finite deciphering delay one can extend
 $\\psi\\_X$ to $X^{\\omega}$, generating a class of infinite words much wider
 than standard episturmian words. For a finite and maximal code $X$ over $A$, we
@@ -27,7 +27,7 @@ the special case of morphic-conservative maps $\\psi\\_{X}$, i.e., maps such
 that $\\varphi\\circ \\psi = \\psi\\_X\\circ \\varphi$ for an injective morphism
 $\\varphi$. Finally, we generalize $\\psi\\_X$ by replacing palindromic closure
 with $\\vartheta$-palindromic closure, where $\\vartheta$ is any involutory
-antimorphism of $A^*$. This yields an extension of the class of
+antimorphism of $A^{\\*}$. This yields an extension of the class of
 $\\vartheta$-standard words introduced by the authors in 2006."""
 featured = false
 publication = "*Theoretical Computer Science*"

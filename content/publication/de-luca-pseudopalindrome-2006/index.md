@@ -4,10 +4,10 @@ date = 2006-10-01
 authors = ["Aldo de Luca", "Alessandro De Luca"]
 publication_types = ["2"]
 abstract = """
-We consider involutory antimorphisms $\\vartheta$ of a free monoid $A^*$ and
+We consider involutory antimorphisms $\\vartheta$ of a free monoid $A^{\\*}$ and
 their fixed points, called $\\vartheta$-palindromes or pseudopalindromes. A
 $\\vartheta$-palindrome reduces to a usual palindrome when $\\vartheta$ is the
-reversal operator. For any word $w\\in A^*$ the right (resp. left)
+reversal operator. For any word $w\\in A^{\\*}$ the right (resp. left)
 $\\vartheta$-palindrome closure of $w$ is the shortest $\\vartheta$-palindrome
 having $w$ as a prefix (resp. suffix).
 We prove some results relating $\\vartheta$-palindrome closure operators with
