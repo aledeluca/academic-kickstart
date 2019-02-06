@@ -1,7 +1,7 @@
 +++
 title = "Aperiodic pseudorandom number generators based on infinite words"
 date = 2016-09-01
-authors = ["L'ubomira Balková", "Michelangelo Bucci", "Alessandro De Luca", "Jir'í Hladký", "Svetlana Puzynina"]
+authors = ["L’ubomira Balková", "Michelangelo Bucci", "Alessandro De Luca", "Jir'í Hladký", "Svetlana Puzynina"]
 publication_types = ["2"]
 math = true
 abstract = """

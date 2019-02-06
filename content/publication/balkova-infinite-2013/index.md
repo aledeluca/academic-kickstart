@@ -1,7 +1,7 @@
 +++
 title = "Infinite Words with Well Distributed Occurrences"
 date = 2013-09-01
-authors = ["L'ubomira Balková", "Michelangelo Bucci", "Alessandro De Luca", "Svetlana Puzynina"]
+authors = ["L’ubomira Balková", "Michelangelo Bucci", "Alessandro De Luca", "Svetlana Puzynina"]
 publication_types = ["1"]
 math = true
 abstract = """
