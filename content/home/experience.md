@@ -61,7 +61,7 @@ date_format = "January 2006"
   description = "At [LaCIM](http://lacim.uqam.ca/)."
 
 [[experience]]
-  title = "Postdoc (_Assegnista di ricerca_ )"
+  title = "Postdoc (_Assegnista di ricerca_)"
   company = "Univ. Napoli Federico II"
   company_url = "http://www.unina.it"
   location = "Italy"
