@@ -99,7 +99,7 @@ interests = [
 
 +++
 
-I am an assistant professor (_Researcher_ ) of Computer Science at
+I am an assistant professor (_Ricercatore confermato_) of Computer Science at
 [DIETI](http://www.dieti.unina.it/index.php?lang=en),
 [Università di Napoli Federico II](http://www.unina.it/en_GB/home)
 (Naples, Italy), formerly at the
@@ -108,7 +108,8 @@ I am an assistant professor (_Researcher_ ) of Computer Science at
 My research interests include Sturmian words and generalizations,
 pseudopalindromes, rich words, and periodicity.
 
-*[Teaching/insitutional homepage](https://www.docenti.unina.it/alessandro.deluca)*
-(Italian) | **[Curriculum Vitae]({{< ref "/cv.md" >}})**
-
 [{{< figure library="1" src="dieti.png" title="" >}}](http://www.dieti.unina.it/index.php?lang=en)
+
+- **[Teaching/insitutional homepage](https://www.docenti.unina.it/alessandro.deluca)**
+(Italian)
+- **[Curriculum Vitae]({{< ref "/cv.md" >}})**
