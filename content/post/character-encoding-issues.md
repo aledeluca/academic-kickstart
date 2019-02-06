@@ -21,5 +21,5 @@ categories = []
 
 A very old web server is currently forcing me to encode this page using the
 Windows-1252 charset instead of the modern standard UTF-8. In addition to making
-every tiny change more time-consuming, this also prevents me to show my Czech
+every tiny change more time-consuming, this also prevents me to display my Czech
 colleagues' names properly. My apologies; looking for a way to fix this.
