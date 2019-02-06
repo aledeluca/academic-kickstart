@@ -10,7 +10,7 @@ other authors to arbitrary alphabets. Acting on infinite words, $\\psi$
 generates the class of standard episturmian words, including standard
 Arnoux-Rauzy words.
 In this paper we generalize the palindromization map, starting with a given code
-$X$ over $A$. The new map $\\psi\\_X$  maps $X^*$ to the set $PAL$ of
+$X$ over $A$. The new map $\\psi\\_X$  maps $X^{\\*}$ to the set *PAL* of
 palindromes of $A^{\\*}$. In this way some properties of $\\psi$ are lost and some
 are saved in a weak form. When $X$ has a finite deciphering delay one can extend
 $\\psi\\_X$ to $X^{\\omega}$, generating a class of infinite words much wider
@@ -21,7 +21,7 @@ Arnoux-Rauzy word and we determine some suitable linear lower and upper bounds
 to its factor complexity.  
 
 For any code $X$ we say that $\\psi\\_X$ is conservative when
-$\\psi\\_X(X^{*})\\subseteq X^{*}$. We study conservative maps $\\psi\\_X$ and
+$\\psi\\_X(X^{\\*})\\subseteq X^{\\*}$. We study conservative maps $\\psi\\_X$ and
 conditions on $X$ assuring that $\\psi\\_X$ is conservative. We also investigate
 the special case of morphic-conservative maps $\\psi\\_{X}$, i.e., maps such
 that $\\varphi\\circ \\psi = \\psi\\_X\\circ \\varphi$ for an injective morphism
