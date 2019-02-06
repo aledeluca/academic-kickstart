@@ -38,7 +38,7 @@ height = "300px"
 
 [[item]]
   title = "Left"
-  content = "I am left aligned :smile:"
+  content = "I am left aligned"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -47,7 +47,7 @@ height = "300px"
 
 [[item]]
   title = "Right"
-  content = "I am right aligned :smile:"
+  content = "I am right aligned"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
