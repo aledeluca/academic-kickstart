@@ -4,7 +4,7 @@ date = 2009-08-01
 authors = ["Michelangelo Bucci", "Aldo de Luca", "Alessandro De Luca"]
 publication_types = ["2"]
 abstract = """
-In a recent paper with L.~Q.~Zamboni, the authors introduced the class of
+In a recent paper with L. Q. Zamboni, the authors introduced the class of
 *$\\vartheta$-episturmian* words. An infinite word over $A$ is standard
 $\\vartheta$-episturmian, where $\\vartheta$ is an involutory antimorphism of
 $A^{\\*}$, if its set of factors is closed under $\\vartheta$ and its left special
