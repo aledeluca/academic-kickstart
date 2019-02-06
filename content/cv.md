@@ -59,8 +59,8 @@ Computer Science at the same university since December 28, 2010.
 
   - Post-doc researcher at the Laboratoire de Combinatoire et
     d’Informatique Mathématique (LaCIM) of Université du Québec à
-    Montréal (UQAM) under the supervision of Christophe Reutenauer and
-    Srečko Brlek, from September 21, 2009 to September 20, 2010.
+    Montréal (UQAM) under the supervision of C. Reutenauer and
+    S. Brlek, from September 21, 2009 to September 20, 2010.
 
   - Post-doc researcher in Computer Science at the Department of
     Mathematics and Applications of University of Naples Federico II,
