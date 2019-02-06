@@ -4,26 +4,22 @@ date = 2009-08-01
 authors = ["Michelangelo Bucci", "Aldo de Luca", "Alessandro De Luca"]
 publication_types = ["2"]
 abstract = """
-In a recent paper with L. Q. Zamboni, the authors introduced the class
-of ϑ-*episturmian words*. An infinite word over *A* is
-standard ϑ-episturmian, where ϑ is an involutory
-antimorphism of *A<sup>*</sup>*, if its set of factors is closed under
-ϑ and its left special factors are prefixes. When
-ϑ is the reversal operator, one obtains the usual standard
-episturmian words.
-
-In this paper, we introduce and study
-ϑ-characteristic morphisms, that is, morphisms which map
-standard episturmian words into standard ϑ-episturmian words.
-They are a natural extension of standard episturmian morphisms. The main
-result of the paper is a characterization of these morphisms when they
-are injective. In order to prove this result, we also introduce and
-study a class of biprefix codes which are *overlap-free*, i.e., any two
-code words do not overlap properly, and *normal*, i.e., no proper suffix
-(prefix) of any code-word is left (right) special in the code. A further
-result is that any standard ϑ-episturmian word is a morphic
-image, by an injective ϑ-characteristic morphism, of a
-standard episturmian word."""
+In a recent paper with L.~Q.~Zamboni, the authors introduced the class of
+*$\\vartheta$-episturmian* words. An infinite word over $A$ is standard
+$\\vartheta$-episturmian, where $\\vartheta$ is an involutory antimorphism of
+$A^*$, if its set of factors is closed under $\\vartheta$ and its left special
+factors are prefixes. When $\\vartheta$ is the reversal operator, one obtains
+the usual standard episturmian words.  In this paper, we introduce and study
+*$\\vartheta$-characteristic morphisms*, that is, morphisms which map standard
+episturmian words into standard $\\vartheta$-episturmian words. They are a natural
+extension of standard episturmian morphisms. The main result of the paper is
+a characterization of these morphisms when they are injective. In order to
+prove this result, we also introduce and study a class of biprefix codes
+which are *overlap-free*, i.e., any two code words do not overlap
+properly, and *normal*, i.e., no proper suffix (prefix) of any
+code-word is left (right) special in the code.  A further result is that any
+standard $\\vartheta$-episturmian word is a morphic image, by an injective
+$\\vartheta$-characteristic morphism, of a standard episturmian word."""
 featured = false
 publication = "*Theoretical Computer Science*"
 tags = ["Episturmian words and morphisms", "Pseudopalindromes", "Theta-characteristic morphisms", "Theta-episturmian words"]

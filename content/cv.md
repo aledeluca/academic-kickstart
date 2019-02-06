@@ -263,4 +263,4 @@ Computer Science at the same university since December 28, 2010.
   - *Palindromes in Sturmian Words*, at the DLT conference in Palermo,
     July 8, 2005.
 
-# [Publications](/publication/)
+# [Publications](publication/)

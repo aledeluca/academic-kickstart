@@ -5,12 +5,12 @@ authors = ["Michelangelo Bucci", "Aldo de Luca", "Alessandro De Luca"]
 publication_types = ["1"]
 abstract = """
 In a recent paper with L. Q. Zamboni the authors introduced the class of
-ϑ-*episturmian words*, where ϑ is an involutory antimorphism of the free monoid
-*A*<sup>*</sup>. In this paper, we introduce and study
-ϑ-*characteristic morphisms*, that is, morphisms which map standard episturmian
-words into standard ϑ-episturmian words. They are a natural extension of
-standard episturmian morphisms. The main result of the paper is a
-characterization of these morphisms when they are injective."""
+*$\\vartheta$-episturmian* words, where $\\vartheta$ is an involutory
+antimorphism of the free monoid $A^{*}$. In this paper, we introduce and study
+*$\\vartheta$-characteristic morphisms*, that is, morphisms which map standard
+episturmian words into standard $\\vartheta$-episturmian words. They are a
+natural extension of standard episturmian morphisms. The main result of the
+paper is a characterization of these morphisms when they are injective."""
 featured = false
 publication = "*Developments in Language Theory*"
 tags = ["Episturmian words and morphisms", "Pseudopalindromes", "Theta-characteristic morphisms", "Theta-episturmian words"]
