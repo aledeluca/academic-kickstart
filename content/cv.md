@@ -95,8 +95,8 @@ Computer Science at the same university since December 28, 2010.
   - Teaching assistance for the Mathematics for Computer Science class
     held by Anne Bergeron at UQAM in 2010.
 
-  - Teaching assistance for the Matrix Algebra class held by S. Brlek at UQAM in
-    2010.
+  - Teaching assistance for the Matrix Algebra class held by Srečko Brlek at
+    UQAM in 2010.
 
 # Scientific Research
 
