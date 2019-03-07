@@ -28,9 +28,9 @@ weight = 12
 * [Amy Glen](https://amyglen.wordpress.com/) (Murdoch University)
 * [Christophe Reutenauer](http://www.lacim.uqam.ca/~christo/) (UQAM)
 * [Gabriele Fici](http://math.unipa.it/fici/) (University of Palermo)
-* [L’ubomíra Dvor'aková](https://kmlinux.fjfi.cvut.cz/~balkolub/), _née_ Balková
+* [Ľubomíra Dvořaková](https://kmlinux.fjfi.cvut.cz/~balkolub/), _née_ Balková
 (Czech Technical University)
 * [Svetlana Puzynina](http://math.nsc.ru/~puzynina/) (Sobolev Institute of Mathematics)
-* [Jir’í Hladký](https://www.linkedin.com/in/hladkyjiri) (Red Hat)
+* [Jiří Hladký](https://www.linkedin.com/in/hladkyjiri) (Red Hat)
 * [Alma D'Aniello](https://www.docenti.unina.it/alma.daniello)
 (University of Naples Federico II)
