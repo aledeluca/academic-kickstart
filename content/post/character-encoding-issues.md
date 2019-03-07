@@ -24,4 +24,4 @@ Windows-1252 charset instead of the modern standard UTF-8. In addition to making
 every tiny change more time-consuming, this also prevents me to display my Czech
 colleagues' names properly. My apologies; looking for a way to fix this.
 
-**Update 2019-03-07**: Apparently solved!
+*Update 2019-03-07:* Apparently solved!

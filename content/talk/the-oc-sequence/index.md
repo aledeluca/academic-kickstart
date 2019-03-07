@@ -1,5 +1,5 @@
 +++
-title = "The Sequence of Open and Closed Prefixes of a Sturmian word"
+title = "The Sequence of Open and Closed Prefixes of a Sturmian Word"
 date = 2019-01-24T14:01:06+01:00  # Schedule page publish date.
 draft = false
 
