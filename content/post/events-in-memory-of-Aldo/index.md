@@ -25,7 +25,9 @@ categories = []
 Last week,
 members of the Italian community of researchers in Theoretical Computer Science,
 with some notable guests from France and Canada, held a beautiful scientific
-event in memory of Aldo de Luca, my former advisor, colleague, and friend
+event in memory of
+**<p style="text-align: center;">Aldo de Luca,</p>**
+my former advisor, colleague, and friend
 ([event homepage in Italian](https://giornateonline.science.blog/)).
 
 Aldo passed
