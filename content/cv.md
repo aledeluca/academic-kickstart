@@ -172,6 +172,9 @@ Computer Science at the same university since December 28, 2010.
 
 ## Attended Conferences and Workshops
 
+  - *Giornate di informatica teorica in memoria di Aldo de Luca* memorial
+    event: Rome 2019.
+
   - *Workshop on Words and Complexity*: Lyon 2018.
 
   - *WORDS*: Montreal 2017 and 2005, Kiel (Germany) 2015, Turku
@@ -226,8 +229,10 @@ Computer Science at the same university since December 28, 2010.
 
 ## Talks
 
-  - *The sequence of open and closed prefixes of a Sturmian word*, at
-    the ICP workshop in Palermo, January 20, 2017.
+  - [*Markov numbers, Christoffel words, and the uniqueness conjecture*](../talk/markov-christoffel-uniqueness/), at the memorial event in Rome, July 12, 2019.
+
+  - [*The sequence of open and closed prefixes of a Sturmian word*](../talk/the-oc-sequence/),
+    at the ICP workshop in Palermo, January 20, 2017.
 
   - *Derivatives of Christoffel and standard words*, at the FLA workshop
     in Naples, January 14, 2016.
