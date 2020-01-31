@@ -1,41 +1,40 @@
-+++
+---
 # Display name
-name = "Alessandro De Luca"
+name: Alessandro De Luca
 
 # Is this the primary user of the site?
-superuser = true
+superuser: true
 
 # Role/position
-role = "Researcher, Computer Science"
+role: 'Researcher, Computer Science'
 
 # Organizations/Affiliations.
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Università di Napoli Federico II", url = "http://www.unina.it" } ]
+organizations:
+  - name: Università di Napoli Federico II
+    url: 'http://www.unina.it'
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Researcher, Univ. Napoli Federico II"
+bio: 'Researcher, Univ. Napoli Federico II'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email: ''
 
 # List (academic) interests or hobbies
-interests = [
-  "Combinatorics on Words",
-  "Automata and Formal Languages",
-  "Discrete Mathematics",
-  "String Algorithms"
-]
+interests:
+  - Combinatorics on Words
+  - Automata and Formal Languages
+  - Discrete Mathematics
+  - String Algorithms
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD at Graduate School of Mathematics and Computer Science"
-  institution = "Università di Napoli Federico II"
-  year = 2008
-
-[[education.courses]]
-  course = "MSc in Mathematics"
-  institution = "Università di Napoli Federico II"
-  year = 2003
+education:
+  courses:
+    - course: PhD at Graduate School of Mathematics and Computer Science
+      institution: Università di Napoli Federico II
+      year: 2008
+    - course: MSc in Mathematics
+      institution: Università di Napoli Federico II
+      year: 2003
 
 # Social/Academic Networking
 #
@@ -54,50 +53,35 @@ interests = [
 #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
 #
 #   Full list: https://jpswalsh.github.io/academicons/
-
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-
- # [[social]]
- #  icon = "twitter"
- #  icon_pack = "fab"
- #  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=R3cxnU8AAAAJ"
-
-[[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://www.linkedin.com/in/delucaale"
-
-[[social]]
-  icon = "arxiv"
-  icon_pack = "ai"
-  link = "http://arxiv.org/a/deluca_a_2"
-
-[[social]]
-  icon = "orcid"
-  icon_pack = "ai"
-  link = "https://orcid.org/0000-0003-1704-773X"
-
-[[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://www.researchgate.net/profile/Alessandro_De_Luca"
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '#contact'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=R3cxnU8AAAAJ'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/delucaale'
+  - icon: arxiv
+    icon_pack: ai
+    link: 'http://arxiv.org/a/deluca_a_2'
+  - icon: orcid
+    icon_pack: ai
+    link: 'https://orcid.org/0000-0003-1704-773X'
+  - icon: researchgate
+    icon_pack: ai
+    link: 'https://www.researchgate.net/profile/Alessandro_De_Luca'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# (needs conversion TOML -> YAML first)
 # [[social]]
 #   icon = "cv"
 #   icon_pack = "ai"
 #   link = "files/cvADL_en.pdf"
 
-+++
+---
 
 I am an assistant professor (_Ricercatore confermato_) of Computer Science at
 [DIETI](http://www.dieti.unina.it/index.php?lang=en),
