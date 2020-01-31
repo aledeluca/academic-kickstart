@@ -49,7 +49,7 @@ tags = ["Characteristic parameters", "Trapezoidal words", "Special factors", "OC
 
 # Links (optional).
 url_pdf = ""
-url_slides = "words2019.pdf"
+url_slides = "words19.pdf"
 url_video = ""
 url_code = ""
 url_custom = [{name = "Publ. data", url = "publication/daniello-characteristic-2019/"}]
