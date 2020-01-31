@@ -19,5 +19,5 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072834097&doi=10.1007%2f978-3-030-28796-2_12&partnerID=40&md5=1478ddadef651d0caf1a225733051ddd"},{name = "Talk", url = "talk/RK-trapezoidal/"}]
+url_custom = [{name = "Scopus", url = "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072834097&doi=10.1007%2f978-3-030-28796-2_12&partnerID=40&md5=1478ddadef651d0caf1a225733051ddd"},{name = "Talk", url = "talk/rk-trapezoidal/"}]
 +++
