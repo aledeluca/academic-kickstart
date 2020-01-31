@@ -1,7 +1,7 @@
 +++
 title = "Christoffel words and the Calkin-Wilf tree"
 date = 2011-01-01
-authors = ["adl", "Christophe Reutenauer"]
+authors = ["Alessandro De Luca", "Christophe Reutenauer"]
 publication_types = ["2"]
 abstract = """
 In this note we present some results on the Calkin-Wilf tree of irreducible
