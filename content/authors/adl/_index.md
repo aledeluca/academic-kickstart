@@ -13,7 +13,7 @@ role = "Researcher, Computer Science"
 organizations = [ { name = "Università di Napoli Federico II", url = "http://www.unina.it" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Univ. Napoli Federico II"
+bio = "Researcher, Univ. Napoli Federico II"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
