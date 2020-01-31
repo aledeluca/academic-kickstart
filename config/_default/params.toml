@@ -128,7 +128,7 @@ section_pager = false
 # Enable native social sharing buttons?
 sharing = true
 
-# OLD?
+# OLD? "moved to the language packs", wtf
 # Publication types.
 #   Used to categorize publications.
 #   The index of the publication type in the list is used as its unique numerical identifier.
