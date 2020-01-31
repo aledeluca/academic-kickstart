@@ -1,6 +1,6 @@
 +++
 title = "Characteristic Parameters and Special Trapezoidal Words"
-date = 2019-09
+date = 2019-09-09
 authors = ["Alma D’Aniello", "Alessandro De Luca"]
 publication_types = ["1"]
 abstract = "Following earlier work by Aldo de Luca and others, we study trapezoidal words and their prefixes, with respect to their characteristic parameters K and R (length of shortest unrepeated suffix, and shortest length without right special factors, respectively), as well as their symmetric versions H and L. We consider the distinction between closed (i.e., periodic-like) and open prefixes, and between Sturmian and non-Sturmian ones. Our main results characterize right special and strictly bispecial trapezoidal words, as done by de Luca and Mignosi for Sturmian words."
