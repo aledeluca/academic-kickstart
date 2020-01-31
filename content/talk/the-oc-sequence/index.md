@@ -63,6 +63,7 @@ url_pdf = ""
 url_slides = "pmo17.pdf"
 url_video = ""
 url_code = ""
+url_custom = [{name = "Publ. data", url = "publication/de-luca-sequence-2017/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
