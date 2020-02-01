@@ -37,8 +37,10 @@ date_format = "January 2006"
   description = """
   Classes taught:
 
-  * Databases (lab)
-  * Information Theory
+  * Elements of Theoretical Computer Science
+  * Theory of Codes
+  * Databases (lab), 2012–2019
+  * Information Theory, 2013–2019
   """
 
 [[experience]]
