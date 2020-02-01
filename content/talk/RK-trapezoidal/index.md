@@ -52,7 +52,7 @@ url_pdf = ""
 url_slides = "words19.pdf"
 url_video = ""
 url_code = ""
-url_custom = [{name = "Publ. data", url = "publication/daniello-characteristic-2019/"}]
+url_custom = [{name = "Publ. page", url = "publication/daniello-characteristic-2019/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
