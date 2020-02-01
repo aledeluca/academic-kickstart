@@ -35,3 +35,5 @@ away in October 2018, and we all miss him dearly. His contributions and role in
 our community will also be remembered in a dedicated session at the next
 [WORDS](http://words2019.lboro.ac.uk/) conference, to be held in Loughborough,
 UK on September 9–13, 2019.
+
+See also the [relevant talks](../../tags/aldo).
