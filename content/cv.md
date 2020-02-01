@@ -1,7 +1,7 @@
 +++
 title = "Curriculum Vitae"
-subtitle = "Alessandro De Luca, as of Jan 24, 2019"
-date = 2019-01-24T17:49:55+01:00
+subtitle = "Alessandro De Luca, as of Feb 1, 2020"
+date = 2020-02-01T02:49:55+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -83,14 +83,20 @@ Computer Science at the same university since December 28, 2010.
 
 # Teaching Experience
 
-  - Since academic year 2012–13, adjunct professor of Information
-    Theory, a graduate Computer Science class at the University of
-    Naples Federico II. From 2005–06 till 2007–08, teaching assistance
-    for the same class, then held by Aldo de Luca.
+  - Since academic year 2019–20, adjunct professor of
+    *Theory of Codes*, a graduate Computer Science class at the university
+    of Naples Federico II. Also, adjunct professor of
+    *Elements of Theoretical Computer Science*, an undergraduate Computer
+    science class at the University of Naples Federico II.
 
-  - Since academic year 2011–12, adjunct professor of Databases and
-    Information Systems lab, an undergraduate Computer Science class at
-    the University of Naples Federico II.
+  - From 2012–13 till 2018–19, adjunct professor of Information
+    Theory, (graduate, Computer Science, Univ. Naples Federico II).
+    From 2005–06 till 2007–08, teaching
+    assistance for the same class, then held by Aldo de Luca.
+
+  - From 2011–12 till 2018–19, adjunct professor of Databases and
+    Information Systems lab (undergraduate, Computer Science,
+    Univ. Naples Federico II).
 
   - Teaching assistance for the Mathematics for Computer Science class
     held by Anne Bergeron at UQAM in 2010.
@@ -172,14 +178,14 @@ Computer Science at the same university since December 28, 2010.
 
 ## Attended Conferences and Workshops
 
+  - *WORDS*: Loughborough (UK) 2019, Montreal 2017 & 2005, Kiel (Germany) 2015,
+    Turku (Finland) 2013, Prague 2011, Salerno 2009 (also member of the
+    organizing committee), Marseille 2007.
+
   - *Giornate di informatica teorica in memoria di Aldo de Luca* memorial
     event: Rome 2019.
 
   - *Workshop on Words and Complexity*: Lyon 2018.
-
-  - *WORDS*: Montreal 2017 and 2005, Kiel (Germany) 2015, Turku
-    (Finland) 2013, Prague 2011, Salerno 2009 (also member of the
-    organizing committee), Marseille 2007.
 
   - *Incontro di Combinatoria delle Parole* workshop: Palermo 2017 and
     2013.
@@ -227,7 +233,10 @@ Computer Science at the same university since December 28, 2010.
 
   - *Workshop on Words and Automata*, St. Petersburg 2006.
 
-## Talks
+## [Talks](../talk)
+
+  - [*Characteristic Parameters and Special Trapezoidal Words*](../talk/rk-trapezoidal/),
+    at the WORDS conference in Loughborough, September 13, 2019.
 
   - [*Markov numbers, Christoffel words, and the uniqueness conjecture*](../talk/markov-christoffel-uniqueness/), at the memorial event in Rome, July 12, 2019.
 
