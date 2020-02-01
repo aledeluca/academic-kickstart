@@ -1,5 +1,5 @@
 +++
-title = "Events in Memory of Aldo"
+title = "Events in Memory of Aldo de Luca"
 date = 2019-07-18T14:42:04+02:00
 draft = false
 
