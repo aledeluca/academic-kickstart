@@ -11,7 +11,7 @@ title = "Past & Present Collaborators"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 12
+weight = 15
 
 # This is an example of using the *custom* widget to create your own homepage section.
 

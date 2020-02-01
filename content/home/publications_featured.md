@@ -10,7 +10,7 @@ title = "Selected Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 15
+weight = 12
 
 # List format.
 #   0 = Simple
